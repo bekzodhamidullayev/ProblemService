@@ -1,4 +1,4 @@
 package uz.problemservice.dtos;
 
-public class ProblemRequestDto {
+public class ProblemCreateDto {
 }
